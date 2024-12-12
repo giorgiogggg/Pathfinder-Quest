@@ -180,3 +180,6 @@ Please make sure:
 - The required Python dependencies (like pygame and networkx) are installed in the active virtual environment
 
 Enjoy playing **Pathfinder Quest**!
+
+#Group members:
+Giorgio Gibilaro (giorgioggg)
